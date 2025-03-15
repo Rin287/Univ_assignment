@@ -1,0 +1,3 @@
+/Users/skskdustn/CLionProjects/Univ_assignment/cmake-build-debug/CMakeFiles/Univ_assignment.dir
+/Users/skskdustn/CLionProjects/Univ_assignment/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/skskdustn/CLionProjects/Univ_assignment/cmake-build-debug/CMakeFiles/rebuild_cache.dir
