@@ -3,8 +3,12 @@
 //
 
 #include "fc_Module.h"
+
+#include <cstdio>
+
 #include "assignment_C_3_2.h"
 #include "assignment_C_3_80p_81p.h"
+#include "assignment_C_4_76.h"
 
 void homework1() {
 
@@ -22,9 +26,14 @@ void homework2() {
 
 void homework3() {
 
-    double w, h;
+    double w, h, area, perimeter;
     homework3_input(&w, &h);
-    double area = homework3_process1(w, h);
-    double perimeter = homework3_process2(w, h);
+    area = homework3_process1(w, h);
+    perimeter = homework3_process2(w, h);
     homework3_output(area, perimeter);
+}
+
+void homework4() {
+
+    homework4_all();
 }

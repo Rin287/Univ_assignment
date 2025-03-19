@@ -5,12 +5,12 @@
 #include "Operating_Module.h"
 #include "fc_Module.h"
 #include <iostream>
-#include <vector> // 추후 벡터 활용
+#include <vector> 
 
 using namespace std;
 
 using func_ptr = void (*)();
-vector<func_ptr> Module_Driver = {homework1,homework2,homework3};
+vector<func_ptr> Module_Driver = {homework1,homework2,homework3,homework4};
 
 int Operating_Module(int Num, int r) {
 

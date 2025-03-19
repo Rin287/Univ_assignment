@@ -10,6 +10,7 @@
 extern void homework1();
 extern void homework2();
 extern void homework3();
+extern void homework4();
 
 const int FC_MODULE_FUCTION_COUNT = 3;
 

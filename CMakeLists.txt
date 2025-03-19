@@ -11,4 +11,6 @@ add_executable(Univ_assignment main.cpp
         fc_Module.cpp
         fc_Module.h
         assignment_C_3_80p_81p.c
-        assignment_C_3_80p_81p.h)
+        assignment_C_3_80p_81p.h
+        assignment_C_4_76.c
+        assignment_C_4_76.h)
