@@ -7,8 +7,15 @@
 
 #endif //ASSIGNMENT_C_3_80P_81P_H
 
+#ifdef __cplusplus
+extern "C" {
+#endif
 
-extern void homework3_input(double* w, double* h);
-extern double homework3_process1(double w, double h);
-extern double homework3_process2(double w, double h);
-extern void homework3_output(double area, double perimeter);
+    extern void homework3_input(double* w, double* h);
+    extern double homework3_process1(double w, double h);
+    extern double homework3_process2(double w, double h);
+    extern void homework3_output(double area, double perimeter);
+
+#ifdef __cplusplus
+}
+#endif
