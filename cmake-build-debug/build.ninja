@@ -73,6 +73,12 @@ build CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o: CXX_COMPILER__Univ_assignm
   OBJECT_DIR = CMakeFiles/Univ_assignment.dir
   OBJECT_FILE_DIR = CMakeFiles/Univ_assignment.dir
 
+build CMakeFiles/Univ_assignment.dir/assignment_C_3_80p_81p.c.o: C_COMPILER__Univ_assignment_unscanned_Debug /Users/skskdustn/CLionProjects/Univ_assignment/assignment_C_3_80p_81p.c || cmake_object_order_depends_target_Univ_assignment
+  DEP_FILE = CMakeFiles/Univ_assignment.dir/assignment_C_3_80p_81p.c.o.d
+  FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk -fcolor-diagnostics
+  OBJECT_DIR = CMakeFiles/Univ_assignment.dir
+  OBJECT_FILE_DIR = CMakeFiles/Univ_assignment.dir
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target Univ_assignment
@@ -81,7 +87,7 @@ build CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o: CXX_COMPILER__Univ_assignm
 #############################################
 # Link the executable Univ_assignment
 
-build Univ_assignment: CXX_EXECUTABLE_LINKER__Univ_assignment_Debug CMakeFiles/Univ_assignment.dir/main.cpp.o CMakeFiles/Univ_assignment.dir/Operating_Module.cpp.o CMakeFiles/Univ_assignment.dir/assignment_C_3_2.c.o CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o
+build Univ_assignment: CXX_EXECUTABLE_LINKER__Univ_assignment_Debug CMakeFiles/Univ_assignment.dir/main.cpp.o CMakeFiles/Univ_assignment.dir/Operating_Module.cpp.o CMakeFiles/Univ_assignment.dir/assignment_C_3_2.c.o CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o CMakeFiles/Univ_assignment.dir/assignment_C_3_80p_81p.c.o
   FLAGS = -g -arch arm64 -isysroot /Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX15.2.sdk
   OBJECT_DIR = CMakeFiles/Univ_assignment.dir
   POST_BUILD = :

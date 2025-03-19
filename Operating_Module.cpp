@@ -5,9 +5,11 @@
 #include "Operating_Module.h"
 #include "fc_Module.h"
 #include <iostream>
-#include <vector>
+#include <vector> // 추후 벡터 활용
 
 using namespace std;
+
+vector<string> ;
 
 int Operating_Module() {
 

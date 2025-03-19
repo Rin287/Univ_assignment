@@ -9,4 +9,6 @@ add_executable(Univ_assignment main.cpp
         assignment_C_3_2.c
         assignment_C_3_2.h
         fc_Module.cpp
-        fc_Module.h)
+        fc_Module.h
+        assignment_C_3_80p_81p.c
+        assignment_C_3_80p_81p.h)

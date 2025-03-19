@@ -1,7 +1,6 @@
 # ninja log v6
-2	32	1742030405860729506	CMakeFiles/Univ_assignment.dir/Operating_Module.cpp.o	9d97a6dd6e3e911f
-2	38	1742030405861115326	CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o	66f962bc89d65d4e
-2	38	1742030405860887667	CMakeFiles/Univ_assignment.dir/assignment_C_3_2.c.o	9e8263a1ce5546d3
-2	31	1742030427830193942	CMakeFiles/Univ_assignment.dir/main.cpp.o	372ec3b538865266
 2	468	1742030427830551097	CMakeFiles/Univ_assignment.dir/Operating_Module.cpp.o	9d97a6dd6e3e911f
+2	38	1742030405860887667	CMakeFiles/Univ_assignment.dir/assignment_C_3_2.c.o	9e8263a1ce5546d3
+2	38	1742030405861115326	CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o	66f962bc89d65d4e
+2	31	1742030427830193942	CMakeFiles/Univ_assignment.dir/main.cpp.o	372ec3b538865266
 470	508	1742030428298426001	Univ_assignment	3d8846bd8a305ca0
