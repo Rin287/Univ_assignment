@@ -6,7 +6,9 @@
 #include <stdio.h>
 
 void homework3_input(double* w, double* h) {
+    printf("w,h 값을 입력하세요: ");
     scanf("%lf %lf", w, h);
+    printf("\n");
 }
 
 double homework3_process1(double w, double h) {
@@ -23,5 +25,5 @@ double homework3_process2(double w, double h) {
 
 void homework3_output(double area, double perimeter) {
 
-    printf("사각형의 넓이: %lf\n 사각형의 둘레: %lf\n", area,perimeter);
+    printf("사각형의 넓이: %lf\n사각형의 둘레: %lf\n", area,perimeter);
 }

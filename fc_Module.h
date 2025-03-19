@@ -6,7 +6,11 @@
 #ifndef FC_MODULE_H
 #define FC_MODULE_H
 
-#endif //FC_MODULE_H
 
 extern void homework1();
 extern void homework2();
+extern void homework3();
+
+const int FC_MODULE_FUCTION_COUNT = 3;
+
+#endif //FC_MODULE_H

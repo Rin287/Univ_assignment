@@ -7,4 +7,4 @@
 
 #endif //OPERATING_MODULE_H
 
-extern int Operating_Module();
+extern int Operating_Module_input();

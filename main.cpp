@@ -2,5 +2,5 @@
 
 int main() {
 
-    Operating_Module();
+    Operating_Module_input();
 }
