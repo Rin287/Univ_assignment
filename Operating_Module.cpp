@@ -5,7 +5,7 @@
 #include "Operating_Module.h"
 #include "fc_Module.h"
 #include <iostream>
-#include <vector> // 추후 벡터 활용
+#include <vector> 
 
 using namespace std;
 

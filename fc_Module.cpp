@@ -22,9 +22,9 @@ void homework2() {
 
 void homework3() {
 
-    double w, h;
+    double w, h, area, perimeter;
     homework3_input(&w, &h);
-    double area = homework3_process1(w, h);
-    double perimeter = homework3_process2(w, h);
+    area = homework3_process1(w, h);
+    perimeter = homework3_process2(w, h);
     homework3_output(area, perimeter);
 }

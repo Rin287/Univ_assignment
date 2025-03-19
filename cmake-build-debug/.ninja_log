@@ -26,3 +26,8 @@
 14	42	1742362493826599202	CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o	66f962bc89d65d4e
 15	50	1742362493826931914	CMakeFiles/Univ_assignment.dir/assignment_C_3_80p_81p.c.o	c87c5a6a959dadba
 50	87	1742362493862439311	Univ_assignment	8be97a15e1cb087
+2	33	1742365436097000437	CMakeFiles/Univ_assignment.dir/main.cpp.o	372ec3b538865266
+2	34	1742365436097807910	CMakeFiles/Univ_assignment.dir/fc_Module.cpp.o	66f962bc89d65d4e
+3	41	1742365436097948155	CMakeFiles/Univ_assignment.dir/assignment_C_3_80p_81p.c.o	c87c5a6a959dadba
+2	581	1742365436097675747	CMakeFiles/Univ_assignment.dir/Operating_Module.cpp.o	9d97a6dd6e3e911f
+581	617	1742365436676151171	Univ_assignment	8be97a15e1cb087
